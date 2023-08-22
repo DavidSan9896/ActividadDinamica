@@ -11,7 +11,7 @@ public class View extends JFrame {
         private JButton evaluateButton;
 
         public View() {
-            setTitle("Expresión Matemática");
+            setTitle("Calculadora");
             setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             setSize(300, 150);
 
